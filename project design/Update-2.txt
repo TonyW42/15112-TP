@@ -1,0 +1,19 @@
+Some final updates of features
+
+1. In the ¡°sentiment analysis¡± page, the list box at the right is clickable. It means 
+   that when you click on the news or the link below it, the browser would open and 
+   would take you to the page. 
+
+2. The color in the list box means something. Red means bad and green means good. The lighter
+   the color is, the more good/bad it means (e.g. light red would mean ¡°very bad¡±)
+
+3. The plot in ¡°quotes¡± is a candle plot. It is frequently used in the stock market.
+
+4. Every time-consuming page is equipped with a process bar. The bar starts running
+   when the process begins, and fills up when the process is done. 
+
+5. You cannot sell something you do not have. If you do, you will get a error message. 
+
+
+
+
