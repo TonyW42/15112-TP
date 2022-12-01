@@ -1,5 +1,8 @@
 Instructions 
 
+You can find a demo video for this project on 
+- https://youtu.be/DTKM3B2D4sI
+
 Project description:
 
   - The project is called "Trade Simulation". It is an app that allows the user to check 
@@ -39,8 +42,8 @@ Module list:
   -  It is recommended that you install all modules again using pip. However, some module is built-in with
      python, so you don't have to install those. Here are a list of modules that you definitely need to install:
 
-  -  matplotlib, threading, PIL, urllib.request, yfinance, yahoo_fin, requests, pandas, numpy, bs4,
-     lxml, vaderSentiment.vaderSentiment, webbrowser, datetime
+  -  matplotlib, threading, PIL, yfinance, yahoo_fin, requests, pandas, numpy, bs4,
+     lxml, vaderSentiment, webbrowser, datetime
 
   -  Though some modules are built-in, it is still recommended that you install all modules, as their might
      be updates and differences in version. If anything went wrong, please follow the instruction in the shell

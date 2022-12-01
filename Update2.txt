@@ -22,7 +22,7 @@ Some final updates of features
    not only the search in "Actions frame"
 
 8. Updates on complexity: Use of threading, use multiple threads to process events. (That's
-   how the processor works). 
+   how the processor works). I used function closure to realize that effect. 
 
 
 
